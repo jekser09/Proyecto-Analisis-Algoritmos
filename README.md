@@ -3,7 +3,7 @@ Bienvenidos.
 
 Autor: Johand Esteban Castro Rodriguez
 
-Profesor: giovanny alexander briceño riveros
+Profesor: Giovanny Alexander Briceño Riveros
 
 ## Descripcion:
 * En este programa podremos observar la diferencia de tiempo de ordenamiento entre
